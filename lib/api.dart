@@ -14,6 +14,12 @@
     "description": "This is a description of tennis.",
     "image": "https://unsplash.com/photos/an-aerial-view-of-a-soccer-field-in-the-mountains-GMFsiHka85I"
   }
+  {
+    "name": "Tennis",
+    "description": "This is a description of tennis.",
+    "image": "https://unsplash.com/photos/an-aerial-view-of-a-soccer-field-in-the-mountains-GMFsiHka85I"
+  }
+  
 
 
   
