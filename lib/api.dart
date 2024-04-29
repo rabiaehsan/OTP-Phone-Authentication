@@ -1,11 +1,11 @@
 [
   {
-    "name": "FootSall",
+    "name": "FutSall",
     "description": "This is a description of football.",
     "image": "https://unsplash.com/photos/an-aerial-view-of-a-soccer-field-in-the-mountains-GMFsiHka85I"
   },
   {
-    "name": "Basketball",
+    "name": "Cricket futsal",
     "description": "This is a description of basketball.",
     "image": "https://unsplash.com/photos/an-aerial-view-of-a-soccer-field-in-the-mountains-GMFsiHka85I"
   },
